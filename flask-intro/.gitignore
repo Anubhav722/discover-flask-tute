@@ -1,0 +1,6 @@
+bin
+lib
+include
+venv
+*.pyc
+*.db
